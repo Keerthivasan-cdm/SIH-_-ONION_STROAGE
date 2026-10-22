@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3-0ZQPvie"
 #define BLYNK_TEMPLATE_NAME "check"
-#define BLYNK_AUTH_TOKEN "pDmIq9qwwH0VeteUnpIU_azrWNtCXQ7O"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -9,8 +9,8 @@
 #include <math.h>
 
 // --- WiFi Credentials ---
-char ssid[] = "STIC";      // <-- change this
-char pass[] = "stic@123";  // <-- change this
+char ssid[] = "YOUR_WIFI_SSID";      // <-- change this
+char pass[] = "YOUR_WIFI_PASSWORD";  // <-- change this
 
 // --- DHT11 configuration ---
 #define DHTPIN 4      
