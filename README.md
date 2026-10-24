@@ -37,4 +37,4 @@ Built for **Smart India Hackathon (SIH) 2025**, where it was selected as an adva
 3. Upload, then open the Blynk app or web dashboard.
 
 ## Author
-**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j))
+**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j-))
